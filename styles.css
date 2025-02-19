@@ -18,9 +18,9 @@ h1 {
 }
 
 .profile img {
-    width: 100px;
-    height: 100px;
-    border-radius: 50%;
+    width: 192px;  /* 2 inches at 96 DPI */
+    height: 192px; /* 2 inches at 96 DPI */
+    border-radius: 10px;
     object-fit: cover;
     margin-top: 20px;
     border: 3px solid #4CAF50;
