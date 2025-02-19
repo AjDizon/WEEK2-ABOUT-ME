@@ -18,8 +18,8 @@ h1 {
 }
 
 .profile img {
-    width: 192px;  /* 2 inches at 96 DPI */
-    height: 192px; /* 2 inches at 96 DPI */
+    width: 90px;  /* 2 inches at 96 DPI */
+    height: 90px; /* 2 inches at 96 DPI */
     border-radius: 10px;
     object-fit: cover;
     margin-top: 20px;
